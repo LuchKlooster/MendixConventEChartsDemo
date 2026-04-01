@@ -1,0 +1,148 @@
+{
+  "color": [
+    "#264ae5",
+    "#16aa16",
+    "#cd8501",
+    "#EA3337",
+    "#516eea",
+    "#45bb45",
+    "#d79d34",
+    "#ee5c5f",
+    "#172c89",
+    "#0d660d"
+  ],
+  "backgroundColor": "transparent",
+  "textStyle": {
+    "color": "#4a4a4c",
+    "fontFamily": "Poppins, sans-serif"
+  },
+  "title": {
+    "textStyle": {
+      "color": "#132573"
+    },
+    "subtextStyle": {
+      "color": "#6e7073"
+    }
+  },
+  "legend": {
+    "textStyle": {
+      "color": "#4a4a4c"
+    }
+  },
+  "tooltip": {
+    "backgroundColor": "#ffe",
+    "borderColor": "#d4d6d9",
+    "textStyle": {
+      "color": "#4a4a4c"
+    }
+  },
+  "grid": {
+    "borderColor": "#d4d6d9"
+  },
+  "categoryAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisTick": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisLabel": {
+      "color": "#6e7073"
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#f1f1f2"
+      }
+    }
+  },
+  "valueAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisTick": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisLabel": {
+      "color": "#6e7073"
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#f1f1f2"
+      }
+    }
+  },
+  "timeAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisTick": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisLabel": {
+      "color": "#6e7073"
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#f1f1f2"
+      }
+    }
+  },
+  "logAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisTick": {
+      "lineStyle": {
+        "color": "#d4d6d9"
+      }
+    },
+    "axisLabel": {
+      "color": "#6e7073"
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#f1f1f2"
+      }
+    }
+  },
+  "line": {
+    "itemStyle": {
+      "borderWidth": 2
+    },
+    "lineStyle": {
+      "width": 2
+    },
+    "symbolSize": 6,
+    "symbol": "circle",
+    "smooth": false
+  },
+  "bar": {
+    "itemStyle": {
+      "barBorderWidth": 0
+    }
+  },
+  "pie": {
+    "itemStyle": {
+      "borderWidth": 0
+    }
+  },
+  "gauge": {
+    "itemStyle": {
+      "borderWidth": 0
+    }
+  }
+}
